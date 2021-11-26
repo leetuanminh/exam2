@@ -1,0 +1,39 @@
+div{
+    display: block;
+}
+
+h1{
+    /*margin: 10px auto 10px auto;*/
+    float: top;
+}
+body{
+    font-family: Courier New;
+    font-size: 19.5px;
+}
+
+#intro img{
+    float: left;
+}
+
+#song{
+    width: 900px;
+}
+
+#img ol{
+    border: black 1px solid;
+    width: 200px;
+    margin: -327.5px 0px 0px 570px;
+}
+
+a:hover{
+    background: bisque;
+    color: crimson;
+}
+
+#img img{
+    border: black 1px solid;
+}
+
+#img video{
+    border: black 1px solid;
+}
